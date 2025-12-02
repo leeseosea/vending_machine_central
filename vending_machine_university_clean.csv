@@ -1,0 +1,499 @@
+date,vending_machine,cash_type,money,product_name
+2024-03-02,University,Money,2.35,Americano with Milk
+2024-03-03,University,Cash,2.35,Americano with Milk
+2024-03-03,University,Cash,2.65,Hot Chocolate
+2024-03-04,University,Money,3.05,Latte
+2024-03-05,University,Cash,3.05,Latte
+2024-03-05,University,Money,2.65,Hot Chocolate
+2024-03-06,University,Cash,2.1,Americano
+2024-03-06,University,Cash,2.9,Cappuccino
+2024-03-07,University,Cash,3.05,Latte
+2024-03-08,University,Cash,2.1,Americano
+2024-03-10,University,Cash,2.35,Americano with Milk
+2024-03-11,University,Cash,3.05,Latte
+2024-03-12,University,Money,2.1,Americano
+2024-03-13,University,Cash,1.8,Espresso
+2024-03-14,University,Cash,3.05,Latte
+2024-03-14,University,Cash,2.35,Americano with Milk
+2024-03-16,University,Money,2.25,Cortado
+2024-03-17,University,Money,3.05,Latte
+2024-03-18,University,Cash,2.1,Americano
+2024-03-18,University,Cash,2.1,Americano
+2024-03-19,University,Cash,2.35,Americano with Milk
+2024-03-20,University,Cash,3.05,Latte
+2024-03-21,University,Cash,2.9,Cappuccino
+2024-03-21,University,Cash,2.25,Cortado
+2024-03-26,University,Cash,2.1,Americano
+2024-03-27,University,Cash,2.65,Hot Chocolate
+2024-03-27,University,Money,3.05,Latte
+2024-03-29,University,Money,2.9,Cappuccino
+2024-03-30,University,Cash,2.9,Cappuccino
+2024-04-04,University,Cash,3.05,Latte
+2024-04-04,University,Cash,2.9,Cappuccino
+2024-04-05,University,Cash,3.05,Latte
+2024-04-08,University,Money,2.9,Cappuccino
+2024-04-08,University,Cash,2.1,Americano
+2024-04-10,University,Money,1.8,Espresso
+2024-04-13,University,Money,2.9,Cappuccino
+2024-04-14,University,Money,3.05,Latte
+2024-04-14,University,Cash,2.25,Cortado
+2024-04-14,University,Cash,2.1,Americano
+2024-04-17,University,Cash,1.8,Espresso
+2024-04-18,University,Cash,3.05,Latte
+2024-04-18,University,Cash,2.9,Cappuccino
+2024-04-19,University,Money,2.9,Cappuccino
+2024-04-20,University,Money,2.9,Cappuccino
+2024-04-20,University,Cash,2.35,Americano with Milk
+2024-04-23,University,Cash,2.9,Cappuccino
+2024-04-23,University,Cash,2.35,Americano with Milk
+2024-04-24,University,Cash,2.35,Americano with Milk
+2024-04-24,University,Money,2.35,Americano with Milk
+2024-04-24,University,Cash,2.35,Americano with Milk
+2024-04-28,University,Cash,2.9,Cappuccino
+2024-04-29,University,Cash,2.1,Americano
+2024-04-30,University,Cash,2.1,Americano
+2024-05-03,University,Cash,3.05,Latte
+2024-05-03,University,Cash,3.05,Latte
+2024-05-06,University,Money,2.1,Americano
+2024-05-09,University,Cash,2.1,Americano
+2024-05-14,University,Cash,2.9,Cappuccino
+2024-05-15,University,Money,3.05,Latte
+2024-05-15,University,Cash,2.1,Americano
+2024-05-16,University,Cash,3.05,Latte
+2024-05-16,University,Cash,3.05,Latte
+2024-05-19,University,Cash,1.8,Espresso
+2024-05-20,University,Cash,2.35,Americano with Milk
+2024-05-20,University,Cash,2.1,Americano
+2024-05-20,University,Cash,3.05,Latte
+2024-05-21,University,Money,2.9,Cappuccino
+2024-05-23,University,Money,2.9,Cappuccino
+2024-05-23,University,Money,2.9,Cappuccino
+2024-05-24,University,Cash,2.25,Cortado
+2024-05-25,University,Cash,3.05,Latte
+2024-05-25,University,Money,2.35,Americano with Milk
+2024-05-25,University,Money,2.1,Americano
+2024-05-26,University,Cash,2.65,Hot Chocolate
+2024-05-26,University,Cash,3.05,Latte
+2024-05-27,University,Cash,3.05,Latte
+2024-05-27,University,Cash,2.35,Americano with Milk
+2024-05-28,University,Cash,2.9,Cappuccino
+2024-05-29,University,Cash,3.05,Latte
+2024-05-29,University,Money,2.25,Cortado
+2024-05-30,University,Cash,3.05,Latte
+2024-05-30,University,Cash,1.8,Espresso
+2024-05-31,University,Cash,2.35,Americano with Milk
+2024-05-31,University,Money,3.05,Latte
+2024-05-31,University,Cash,3.05,Latte
+2024-06-01,University,Cash,2.25,Cortado
+2024-06-02,University,Cash,3.05,Latte
+2024-06-03,University,Cash,3.05,Latte
+2024-06-03,University,Money,2.35,Americano with Milk
+2024-06-06,University,Money,2.35,Americano with Milk
+2024-06-06,University,Cash,3.05,Latte
+2024-06-07,University,Money,1.8,Espresso
+2024-06-07,University,Cash,2.25,Cortado
+2024-06-09,University,Money,2.9,Cappuccino
+2024-06-11,University,Cash,2.35,Americano with Milk
+2024-06-13,University,Money,2.65,Hot Chocolate
+2024-06-15,University,Cash,1.8,Espresso
+2024-06-15,University,Money,2.5,Cocoa
+2024-06-15,University,Cash,2.1,Americano
+2024-06-16,University,Money,2.35,Americano with Milk
+2024-06-17,University,Cash,2.9,Cappuccino
+2024-06-17,University,Money,2.9,Cappuccino
+2024-06-17,University,Cash,2.1,Americano
+2024-06-17,University,Money,2.1,Americano
+2024-06-18,University,Money,2.35,Americano with Milk
+2024-06-19,University,Money,2.35,Americano with Milk
+2024-06-19,University,Cash,2.35,Americano with Milk
+2024-06-28,University,Money,1.8,Espresso
+2024-06-29,University,Money,2.35,Americano with Milk
+2024-06-30,University,Money,1.8,Espresso
+2024-07-01,University,Money,2.9,Cappuccino
+2024-07-05,University,Money,2.1,Americano
+2024-07-05,University,Cash,2.9,Cappuccino
+2024-07-05,University,Cash,2.35,Americano with Milk
+2024-07-06,University,Money,3.05,Latte
+2024-07-07,University,Cash,2.35,Americano with Milk
+2024-07-07,University,Cash,2.9,Cappuccino
+2024-07-08,University,Cash,2.35,Americano with Milk
+2024-07-08,University,Cash,3.05,Latte
+2024-07-19,University,Cash,3.05,Latte
+2024-07-20,University,Cash,3.05,Latte
+2024-07-21,University,Cash,2.25,Cortado
+2024-07-23,University,Cash,2.1,Americano
+2024-07-23,University,Money,2.35,Americano with Milk
+2024-07-24,University,Cash,1.8,Espresso
+2024-07-24,University,Money,1.8,Espresso
+2024-07-24,University,Money,2.35,Americano with Milk
+2024-07-26,University,Money,2.35,Americano with Milk
+2024-07-26,University,Cash,2.35,Americano with Milk
+2024-07-26,University,Cash,2.1,Americano
+2024-07-27,University,Money,1.8,Espresso
+2024-07-27,University,Cash,2.9,Cappuccino
+2024-07-27,University,Money,2.35,Americano with Milk
+2024-07-28,University,Cash,3.05,Latte
+2024-07-29,University,Cash,3.05,Latte
+2024-07-29,University,Cash,2.35,Americano with Milk
+2024-07-29,University,Cash,2.65,Hot Chocolate
+2024-07-30,University,Money,2.35,Americano with Milk
+2024-07-30,University,Cash,2.9,Cappuccino
+2024-07-30,University,Cash,2.35,Americano with Milk
+2024-07-30,University,Cash,2.35,Americano with Milk
+2024-07-30,University,Cash,2.35,Americano with Milk
+2024-07-30,University,Cash,2.35,Americano with Milk
+2024-08-01,University,Cash,2.35,Americano with Milk
+2024-08-01,University,Cash,2.1,Americano
+2024-08-03,University,Cash,2.35,Americano with Milk
+2024-08-03,University,Money,2.35,Americano with Milk
+2024-08-04,University,Cash,2.35,Americano with Milk
+2024-08-05,University,Cash,3.05,Latte
+2024-08-05,University,Cash,2.5,Cocoa
+2024-08-06,University,Cash,3.05,Latte
+2024-08-07,University,Cash,2.1,Americano
+2024-08-07,University,Cash,1.8,Espresso
+2024-08-07,University,Cash,2.9,Cappuccino
+2024-08-07,University,Money,3.05,Latte
+2024-08-08,University,Cash,2.25,Cortado
+2024-08-08,University,Cash,2.25,Cortado
+2024-08-08,University,Cash,2.9,Cappuccino
+2024-08-09,University,Money,3.05,Latte
+2024-08-10,University,Cash,2.35,Americano with Milk
+2024-08-11,University,Money,2.35,Americano with Milk
+2024-08-11,University,Cash,3.05,Latte
+2024-08-12,University,Cash,2.35,Americano with Milk
+2024-08-13,University,Cash,2.9,Cappuccino
+2024-08-14,University,Cash,3.05,Latte
+2024-08-14,University,Cash,1.8,Espresso
+2024-08-14,University,Cash,2.1,Americano
+2024-08-16,University,Money,1.8,Espresso
+2024-08-17,University,Money,2.35,Americano with Milk
+2024-08-17,University,Cash,2.25,Cortado
+2024-08-17,University,Cash,3.05,Latte
+2024-08-18,University,Cash,2.1,Americano
+2024-08-18,University,Money,2.1,Americano
+2024-08-20,University,Cash,2.1,Americano
+2024-08-21,University,Cash,2.35,Americano with Milk
+2024-08-21,University,Cash,2.25,Cortado
+2024-08-22,University,Cash,2.35,Americano with Milk
+2024-08-23,University,Cash,2.1,Americano
+2024-08-23,University,Cash,2.5,Cocoa
+2024-08-23,University,Money,2.1,Americano
+2024-08-23,University,Cash,3.05,Latte
+2024-08-24,University,Money,2.25,Cortado
+2024-08-24,University,Cash,2.1,Americano
+2024-08-25,University,Cash,2.9,Cappuccino
+2024-08-31,University,Money,1.8,Espresso
+2024-09-01,University,Cash,3.05,Latte
+2024-09-04,University,Cash,3.05,Latte
+2024-09-05,University,Cash,2.1,Americano
+2024-09-05,University,Cash,2.1,Americano
+2024-09-05,University,Money,2.9,Cappuccino
+2024-09-05,University,Cash,2.9,Cappuccino
+2024-09-05,University,Money,2.35,Americano with Milk
+2024-09-07,University,Cash,1.8,Espresso
+2024-09-07,University,Money,3.05,Latte
+2024-09-07,University,Money,3.05,Latte
+2024-09-10,University,Cash,2.1,Americano
+2024-09-11,University,Money,3.05,Latte
+2024-09-11,University,Cash,3.05,Latte
+2024-09-12,University,Cash,2.35,Americano with Milk
+2024-09-12,University,Cash,2.25,Cortado
+2024-09-13,University,Cash,3.05,Latte
+2024-09-13,University,Money,3.05,Latte
+2024-09-13,University,Cash,3.05,Latte
+2024-09-13,University,Cash,2.35,Americano with Milk
+2024-09-15,University,Cash,2.25,Cortado
+2024-09-15,University,Cash,2.25,Cortado
+2024-09-16,University,Cash,2.35,Americano with Milk
+2024-09-17,University,Money,3.05,Latte
+2024-09-18,University,Cash,2.35,Americano with Milk
+2024-09-19,University,Cash,2.35,Americano with Milk
+2024-09-19,University,Cash,2.25,Cortado
+2024-09-21,University,Cash,2.9,Cappuccino
+2024-09-21,University,Cash,2.1,Americano
+2024-09-22,University,Cash,2.25,Cortado
+2024-09-22,University,Cash,2.35,Americano with Milk
+2024-09-22,University,Cash,2.9,Cappuccino
+2024-09-22,University,Cash,2.35,Americano with Milk
+2024-09-23,University,Money,2.35,Americano with Milk
+2024-09-23,University,Cash,2.35,Americano with Milk
+2024-09-23,University,Money,3.05,Latte
+2024-09-24,University,Cash,3.05,Latte
+2024-09-24,University,Cash,3.05,Latte
+2024-09-25,University,Cash,2.35,Americano with Milk
+2024-09-25,University,Cash,2.35,Americano with Milk
+2024-09-26,University,Cash,3.05,Latte
+2024-09-27,University,Cash,2.35,Americano with Milk
+2024-09-27,University,Cash,3.05,Latte
+2024-09-28,University,Money,2.35,Americano with Milk
+2024-09-28,University,Cash,2.35,Americano with Milk
+2024-09-29,University,Cash,2.9,Cappuccino
+2024-09-30,University,Cash,2.35,Americano with Milk
+2024-09-30,University,Cash,2.25,Cortado
+2024-10-01,University,Cash,2.35,Americano with Milk
+2024-10-01,University,Cash,2.1,Americano
+2024-10-04,University,Cash,2.1,Americano
+2024-10-04,University,Cash,3.05,Latte
+2024-10-05,University,Cash,2.25,Cortado
+2024-10-06,University,Cash,2.9,Cappuccino
+2024-10-07,University,Cash,3.05,Latte
+2024-10-08,University,Cash,2.9,Cappuccino
+2024-10-09,University,Cash,1.8,Espresso
+2024-10-10,University,Cash,2.9,Cappuccino
+2024-10-11,University,Cash,2.35,Americano with Milk
+2024-10-11,University,Cash,2.1,Americano
+2024-10-11,University,Cash,2.1,Americano
+2024-10-11,University,Money,2.65,Hot Chocolate
+2024-10-11,University,Money,2.65,Hot Chocolate
+2024-10-12,University,Money,2.25,Cortado
+2024-10-12,University,Money,2.9,Cappuccino
+2024-10-13,University,Cash,3.05,Latte
+2024-10-14,University,Money,2.1,Americano
+2024-10-15,University,Money,2.65,Hot Chocolate
+2024-10-15,University,Money,3.05,Latte
+2024-10-15,University,Cash,2.65,Hot Chocolate
+2024-10-16,University,Cash,2.35,Americano with Milk
+2024-10-16,University,Money,2.35,Americano with Milk
+2024-10-17,University,Cash,2.65,Hot Chocolate
+2024-10-17,University,Cash,3.05,Latte
+2024-10-18,University,Money,2.1,Americano
+2024-10-18,University,Money,3.05,Latte
+2024-10-19,University,Cash,3.05,Latte
+2024-10-21,University,Cash,2.25,Cortado
+2024-10-21,University,Money,2.35,Americano with Milk
+2024-10-21,University,Money,2.5,Cocoa
+2024-10-21,University,Cash,2.65,Hot Chocolate
+2024-10-21,University,Cash,2.5,Cocoa
+2024-10-22,University,Money,2.1,Americano
+2024-10-23,University,Cash,3.05,Latte
+2024-10-24,University,Money,2.1,Americano
+2024-10-25,University,Money,1.8,Espresso
+2024-10-25,University,Money,2.5,Cocoa
+2024-10-26,University,Cash,2.25,Cortado
+2024-10-26,University,Money,2.9,Cappuccino
+2024-10-28,University,Cash,2.9,Cappuccino
+2024-10-28,University,Cash,2.35,Americano with Milk
+2024-10-28,University,Cash,2.35,Americano with Milk
+2024-10-28,University,Money,2.5,Cocoa
+2024-10-28,University,Cash,2.5,Cocoa
+2024-10-29,University,Money,3.05,Latte
+2024-10-30,University,Cash,3.05,Latte
+2024-10-30,University,Money,2.35,Americano with Milk
+2024-10-31,University,Cash,3.05,Latte
+2024-11-02,University,Money,2.5,Cocoa
+2024-11-02,University,Money,3.05,Latte
+2024-11-03,University,Cash,2.35,Americano with Milk
+2024-11-03,University,Cash,2.35,Americano with Milk
+2024-11-03,University,Cash,2.5,Cocoa
+2024-11-04,University,Cash,2.1,Americano
+2024-11-05,University,Cash,2.5,Cocoa
+2024-11-05,University,Cash,2.9,Cappuccino
+2024-11-05,University,Money,2.65,Hot Chocolate
+2024-11-06,University,Money,1.8,Espresso
+2024-11-07,University,Cash,3.05,Latte
+2024-11-08,University,Cash,2.9,Cappuccino
+2024-11-09,University,Cash,2.5,Cocoa
+2024-11-09,University,Cash,2.1,Americano
+2024-11-10,University,Money,2.65,Hot Chocolate
+2024-11-11,University,Cash,3.05,Latte
+2024-11-14,University,Money,2.1,Americano
+2024-11-14,University,Cash,3.05,Latte
+2024-11-15,University,Cash,2.5,Cocoa
+2024-11-17,University,Cash,2.35,Americano with Milk
+2024-11-17,University,Money,2.35,Americano with Milk
+2024-11-17,University,Cash,2.65,Hot Chocolate
+2024-11-19,University,Cash,3.05,Latte
+2024-11-20,University,Cash,2.65,Hot Chocolate
+2024-11-21,University,Money,3.05,Latte
+2024-11-23,University,Cash,2.25,Cortado
+2024-11-23,University,Cash,2.25,Cortado
+2024-11-23,University,Cash,2.1,Americano
+2024-11-25,University,Cash,2.35,Americano with Milk
+2024-11-28,University,Money,2.35,Americano with Milk
+2024-11-29,University,Cash,2.5,Cocoa
+2024-11-30,University,Money,2.1,Americano
+2024-12-01,University,Cash,2.35,Americano with Milk
+2024-12-01,University,Money,2.35,Americano with Milk
+2024-12-01,University,Cash,3.05,Latte
+2024-12-03,University,Money,2.35,Americano with Milk
+2024-12-03,University,Money,2.35,Americano with Milk
+2024-12-03,University,Cash,2.5,Cocoa
+2024-12-03,University,Cash,2.9,Cappuccino
+2024-12-05,University,Cash,3.05,Latte
+2024-12-05,University,Cash,3.05,Latte
+2024-12-06,University,Cash,3.05,Latte
+2024-12-06,University,Cash,3.05,Latte
+2024-12-06,University,Money,2.65,Hot Chocolate
+2024-12-07,University,Money,2.1,Americano
+2024-12-07,University,Money,3.05,Latte
+2024-12-08,University,Cash,2.25,Cortado
+2024-12-08,University,Money,2.35,Americano with Milk
+2024-12-09,University,Cash,2.9,Cappuccino
+2024-12-09,University,Cash,2.35,Americano with Milk
+2024-12-13,University,Cash,2.5,Cocoa
+2024-12-14,University,Cash,2.5,Cocoa
+2024-12-15,University,Money,2.65,Hot Chocolate
+2024-12-16,University,Cash,2.65,Hot Chocolate
+2024-12-18,University,Money,2.35,Americano with Milk
+2024-12-18,University,Money,3.05,Latte
+2024-12-19,University,Cash,1.8,Espresso
+2024-12-19,University,Money,2.65,Hot Chocolate
+2024-12-20,University,Cash,2.9,Cappuccino
+2024-12-20,University,Cash,2.25,Cortado
+2024-12-21,University,Cash,2.1,Americano
+2024-12-21,University,Money,2.65,Hot Chocolate
+2024-12-21,University,Cash,2.35,Americano with Milk
+2024-12-21,University,Cash,3.05,Latte
+2024-12-21,University,Money,2.25,Cortado
+2024-12-21,University,Money,3.05,Latte
+2024-12-22,University,Money,2.65,Hot Chocolate
+2024-12-23,University,Cash,2.25,Cortado
+2024-12-23,University,Cash,2.9,Cappuccino
+2024-12-23,University,Money,3.05,Latte
+2024-12-23,University,Cash,2.25,Cortado
+2024-12-24,University,Money,2.65,Hot Chocolate
+2024-12-25,University,Cash,2.1,Americano
+2024-12-27,University,Money,2.25,Cortado
+2024-12-28,University,Money,3.05,Latte
+2024-12-30,University,Cash,2.65,Hot Chocolate
+2024-12-30,University,Cash,3.05,Latte
+2024-12-30,University,Money,2.35,Americano with Milk
+2024-12-30,University,Cash,2.9,Cappuccino
+2025-01-02,University,Cash,2.65,Hot Chocolate
+2025-01-03,University,Money,2.35,Americano with Milk
+2025-01-08,University,Cash,2.9,Cappuccino
+2025-01-10,University,Money,2.35,Americano with Milk
+2025-01-10,University,Cash,2.35,Americano with Milk
+2025-01-11,University,Cash,3.05,Latte
+2025-01-13,University,Cash,2.35,Americano with Milk
+2025-01-13,University,Cash,3.05,Latte
+2025-01-13,University,Cash,1.8,Espresso
+2025-01-14,University,Cash,2.35,Americano with Milk
+2025-01-14,University,Cash,3.05,Latte
+2025-01-15,University,Cash,3.05,Latte
+2025-01-15,University,Cash,2.9,Cappuccino
+2025-01-16,University,Cash,2.65,Hot Chocolate
+2025-01-17,University,Cash,2.5,Cocoa
+2025-01-20,University,Money,2.9,Cappuccino
+2025-01-24,University,Money,2.1,Americano
+2025-01-25,University,Cash,2.9,Cappuccino
+2025-01-25,University,Cash,2.1,Americano
+2025-01-26,University,Money,1.8,Espresso
+2025-01-27,University,Cash,2.1,Americano
+2025-01-27,University,Cash,2.9,Cappuccino
+2025-01-27,University,Cash,2.35,Americano with Milk
+2025-01-28,University,Cash,2.1,Americano
+2025-01-29,University,Cash,2.35,Americano with Milk
+2025-01-31,University,Cash,3.05,Latte
+2025-02-01,University,Money,2.35,Americano with Milk
+2025-02-02,University,Money,2.9,Cappuccino
+2025-02-03,University,Cash,2.9,Cappuccino
+2025-02-03,University,Cash,2.5,Cocoa
+2025-02-03,University,Money,2.35,Americano with Milk
+2025-02-03,University,Cash,3.05,Latte
+2025-02-03,University,Money,2.5,Cocoa
+2025-02-04,University,Money,2.35,Americano with Milk
+2025-02-04,University,Money,2.1,Americano
+2025-02-04,University,Money,2.1,Americano
+2025-02-05,University,Money,1.8,Espresso
+2025-02-05,University,Cash,2.5,Cocoa
+2025-02-05,University,Cash,2.35,Americano with Milk
+2025-02-06,University,Money,2.35,Americano with Milk
+2025-02-06,University,Cash,2.9,Cappuccino
+2025-02-07,University,Money,2.65,Hot Chocolate
+2025-02-07,University,Cash,3.05,Latte
+2025-02-07,University,Money,2.5,Cocoa
+2025-02-08,University,Cash,2.1,Americano
+2025-02-09,University,Money,2.5,Cocoa
+2025-02-10,University,Cash,2.1,Americano
+2025-02-10,University,Cash,3.05,Latte
+2025-02-10,University,Cash,2.1,Americano
+2025-02-10,University,Cash,3.05,Latte
+2025-02-10,University,Cash,3.05,Latte
+2025-02-11,University,Money,1.8,Espresso
+2025-02-12,University,Money,2.1,Americano
+2025-02-12,University,Money,2.65,Hot Chocolate
+2025-02-12,University,Cash,2.9,Cappuccino
+2025-02-13,University,Cash,2.1,Americano
+2025-02-13,University,Cash,3.05,Latte
+2025-02-14,University,Money,2.35,Americano with Milk
+2025-02-14,University,Money,2.9,Cappuccino
+2025-02-14,University,Cash,2.1,Americano
+2025-02-14,University,Money,2.5,Cocoa
+2025-02-15,University,Money,2.35,Americano with Milk
+2025-02-15,University,Money,2.1,Americano
+2025-02-16,University,Cash,2.65,Hot Chocolate
+2025-02-16,University,Cash,2.35,Americano with Milk
+2025-02-17,University,Cash,2.1,Americano
+2025-02-18,University,Cash,2.1,Americano
+2025-02-18,University,Cash,2.5,Cocoa
+2025-02-19,University,Cash,2.9,Cappuccino
+2025-02-19,University,Cash,2.1,Americano
+2025-02-19,University,Cash,2.1,Americano
+2025-02-19,University,Money,2.1,Americano
+2025-02-19,University,Cash,2.35,Americano with Milk
+2025-02-19,University,Cash,2.9,Cappuccino
+2025-02-19,University,Cash,3.05,Latte
+2025-02-20,University,Cash,2.9,Cappuccino
+2025-02-20,University,Cash,2.1,Americano
+2025-02-20,University,Cash,2.1,Americano
+2025-02-20,University,Cash,3.05,Latte
+2025-02-21,University,Money,3.05,Latte
+2025-02-21,University,Cash,2.1,Americano
+2025-02-21,University,Cash,2.1,Americano
+2025-02-21,University,Money,3.05,Latte
+2025-02-21,University,Cash,3.05,Latte
+2025-02-22,University,Cash,2.35,Americano with Milk
+2025-02-23,University,Cash,2.9,Cappuccino
+2025-02-24,University,Money,2.5,Cocoa
+2025-02-26,University,Money,2.35,Americano with Milk
+2025-02-26,University,Money,2.65,Hot Chocolate
+2025-02-27,University,Money,2.5,Cocoa
+2025-02-27,University,Money,2.1,Americano
+2025-02-27,University,Money,2.5,Cocoa
+2025-02-27,University,Cash,3.05,Latte
+2025-02-27,University,Cash,2.9,Cappuccino
+2025-02-28,University,Cash,3.05,Latte
+2025-02-28,University,Cash,3.05,Latte
+2025-03-03,University,Cash,2.9,Cappuccino
+2025-03-03,University,Cash,2.65,Hot Chocolate
+2025-03-03,University,Money,3.05,Latte
+2025-03-04,University,Cash,2.9,Cappuccino
+2025-03-04,University,Cash,2.1,Americano
+2025-03-04,University,Money,2.1,Americano
+2025-03-04,University,Cash,2.1,Americano
+2025-03-05,University,Cash,2.9,Cappuccino
+2025-03-06,University,Cash,2.1,Americano
+2025-03-06,University,Cash,2.1,Americano
+2025-03-07,University,Cash,2.1,Americano
+2025-03-08,University,Money,2.1,Americano
+2025-03-08,University,Cash,2.35,Americano with Milk
+2025-03-09,University,Money,2.1,Americano
+2025-03-12,University,Cash,2.35,Americano with Milk
+2025-03-12,University,Cash,3.05,Latte
+2025-03-13,University,Money,3.05,Latte
+2025-03-13,University,Cash,2.35,Americano with Milk
+2025-03-14,University,Cash,2.1,Americano
+2025-03-14,University,Cash,3.05,Latte
+2025-03-14,University,Money,3.05,Latte
+2025-03-14,University,Cash,2.5,Cocoa
+2025-03-15,University,Cash,2.9,Cappuccino
+2025-03-15,University,Money,2.9,Cappuccino
+2025-03-16,University,Cash,2.65,Hot Chocolate
+2025-03-17,University,Cash,2.5,Cocoa
+2025-03-17,University,Money,3.05,Latte
+2025-03-18,University,Cash,3.05,Latte
+2025-03-18,University,Cash,2.65,Hot Chocolate
+2025-03-18,University,Money,2.1,Americano
+2025-03-18,University,Cash,3.05,Latte
+2025-03-19,University,Cash,3.05,Latte
+2025-03-19,University,Cash,2.1,Americano
+2025-03-20,University,Money,2.35,Americano with Milk
+2025-03-20,University,Cash,2.1,Americano
+2025-03-20,University,Cash,2.65,Hot Chocolate
+2025-03-20,University,Cash,2.5,Cocoa
+2025-03-21,University,Money,2.9,Cappuccino
+2025-03-22,University,Cash,2.35,Americano with Milk
+2025-03-22,University,Cash,2.1,Americano
+2025-03-22,University,Cash,1.8,Espresso
